@@ -8,5 +8,6 @@ TamperMonkey скрипт для доступа Google Flow. Обход огра
 https://raw.githubusercontent.com/myslithell/google-flow-fix/refs/heads/main/fix.js
 5) Сохраняете и закрываете эту вкладку. Далее открываете https://flow.google.com и пользуетесь как обычно.
 
-Еще больше пользы тут: https://t.me/+6qg9PP2Mz6oyNTJi
 Автор: https://github.com/senkatto
+Еще больше пользы тут: https://t.me/+6qg9PP2Mz6oyNTJi
+
